@@ -1,1 +1,1 @@
-pd= readcsv
+df = pd.read_csv("Path")
